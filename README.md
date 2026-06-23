@@ -93,8 +93,9 @@ Modern learning ecosystem focused on structured education delivery.
 💻 github.com/kottenikhil54141
 
 🌐 Portfolio
-
+https://nik-portfolio-vert.vercel.app/
 📄 Resume
+KotteNikhil_Resume.pdf
 
 ---
 
