@@ -12,7 +12,7 @@ Building modern software, AI-powered products, and human-centered digital experi
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://nik-portfolio-vert.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
