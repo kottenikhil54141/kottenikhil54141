@@ -26,9 +26,9 @@
 
 ## About Me
 
-Hi, I’m **Nik**. I build clean, useful, and professional projects with a focus on real-world value.
+Hi, I’m **Kotte Nikhil**. I build clean, useful, and professional projects with a focus on real-world value.
 
-- 🎓 AIML student
+- 🎓 AIML student 
 - 💻 Full stack development and AI/ML
 - 🧠 Learning by building, not just watching tutorials
 - 🚀 Goal: create polished products that feel premium and work well
@@ -49,19 +49,23 @@ Hi, I’m **Nik**. I build clean, useful, and professional projects with a focus
 
 ## Featured Projects
 
-### 1. Student Management System
+### 1. Solar AI Dryer
+It used for prolong the shelf life period of vegetables, fruits etc.,  
+**Stack:** React, Streamlit, Python, MongoDB, Machine Learning Algorithms.
+
+### 2. Student Management System
 A role-based platform for principal, teachers, and students.  
 **Stack:** React, Node.js, Express, PostgreSQL
 
-### 2. Head Pose Tracking
+### 3. Head Pose Tracking
 Tracks head movement and detects deviation over time.  
 **Stack:** Python, OpenCV, MediaPipe
 
-### 3. AI Learning Platform
+### 4. AI Learning Platform
 A structured learning platform for Python and JavaScript.  
 **Stack:** Next.js, TypeScript, Tailwind CSS
 
-### 4. Painter Booking Platform
+### 5. Painter Booking Platform
 Service discovery and booking system with quotes and profiles.  
 **Stack:** React, Node.js, MongoDB, Razorpay
 
