@@ -1,73 +1,52 @@
-<!-- README.md -->
+<!-- GitHub Profile README for Kotte Nikhil -->
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi, I&apos;m Kotte Nikhil 👋</h1>
+      <h3>Student • Developer • Creator • AIML Engineer</h3>
+    </td>
+    <td align="right">
+      <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=87CEEB&labelColor=ffffff" alt="Resume" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=220&section=header&text=Nik%20Kotte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=2B6CB0&center=true&vCenter=true&width=800&lines=Student+%7C+Developer+%7C+Creator+%7C+AIML+Engineer;Full+Stack+Developer+%7C+Python+%7C+React+%7C+Node.js;Building+clean%2C+practical%2C+human-centered+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=AIML+Student+%7C+Full+Stack+Developer+%7C+Builder+of+Practical+Projects;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Focused+on+clean+design+and+real+solutions" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:nikhtenikhil499@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kottenikhil499%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=87CEEB" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=87CEEB" />
-  </a>
-  <a href="https://github.com/kottenikhil54141">
-    <img src="https://img.shields.io/badge/GitHub-kottenikhil54141-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=87CEEB" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
 ## About Me
 
-Hi, I’m **Kotte Nikhil**. I build clean, useful, and professional projects with a focus on real-world value.
+I am **Kotte Nikhil**. I build modern web apps and AI/ML projects with a focus on clean UI, useful features, and real-world execution.
 
-- 🎓 AIML student 
-- 💻 Full stack development and AI/ML
-- 🧠 Learning by building, not just watching tutorials
-- 🚀 Goal: create polished products that feel premium and work well
-
----
-
-## What I Build
-
-| Area | Focus |
-|------|------|
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Database | PostgreSQL, MongoDB |
-| Python | Automation, AI/ML, data handling |
-| Design | Clean UI, modern layouts, smooth user experience |
+- 🎓 AIML student
+- 💻 Full Stack Developer
+- 🤖 AI/ML enthusiast
+- 🎨 Focused on premium, human-designed interfaces
+- 🚀 Learning by building actual products
 
 ---
 
 ## Featured Projects
 
-### 1. Solar AI Dryer
-It used for prolong the shelf life period of vegetables, fruits etc.,  
-**Stack:** React, Streamlit, Python, MongoDB, Machine Learning Algorithms.
-
-### 2. Student Management System
-A role-based platform for principal, teachers, and students.  
-**Stack:** React, Node.js, Express, PostgreSQL
-
-### 3. Head Pose Tracking
-Tracks head movement and detects deviation over time.  
-**Stack:** Python, OpenCV, MediaPipe
-
-### 4. AI Learning Platform
-A structured learning platform for Python and JavaScript.  
-**Stack:** Next.js, TypeScript, Tailwind CSS
-
-### 5. Painter Booking Platform
-Service discovery and booking system with quotes and profiles.  
-**Stack:** React, Node.js, MongoDB, Razorpay
+| Project | What it does | Stack |
+|---|---|---|
+| **Solar AI Dryer** | Predictive control for solar drying optimization | Solar, AI, ML |
+| **Face Recognition System** | Real-time face verification and attendance solution | CV, Python, Attendance |
+| **Kidz Learning World** | Interactive gamified learning platform for kids | EdTech, Web App |
+| **NIK's EdTech Platform** | Course management and learning portal | Full Stack, LMS |
+| **Student Management System** | Role-based platform for principal, teachers, and students | React, Express, PostgreSQL |
+| **Head Pose Tracking** | Head movement tracking with deviation monitoring | OpenCV, MediaPipe, Python |
+| **Painter Booking Platform** | Local service booking and quotation system | React, Node.js, MongoDB |
+| **AI Learning Platform** | Structured learning platform for Python and JavaScript | Next.js, TypeScript, Tailwind |
 
 ---
 
@@ -76,6 +55,20 @@ Service discovery and booking system with quotes and profiles.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,postgres,mongodb,tailwind,git,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-White%20%2B%20SkyBlue-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Clean%20%2B%20Professional-ffffff?style=for-the-badge&labelColor=2B6CB0" />
+</p>
+
+---
+
+## What I’m Working On
+
+- Building cleaner full-stack projects
+- Improving DSA and problem solving
+- Making every project look production-ready
+- Creating a strong portfolio and resume presence
 
 ---
 
@@ -88,17 +81,16 @@ Service discovery and booking system with quotes and profiles.
 
 ---
 
-## Currently Working On
-
-- Building stronger full-stack projects
-- Improving DSA and problem solving
-- Making every project look production-ready
-- Creating a portfolio that feels clean and professional
-
----
-
 ## Contact
 
 - Email: **kottenikhil499@gmail.com**
 - GitHub: **@kottenikhil54141**
-- LinkedIn: **Add your LinkedIn profile here**
+- LinkedIn: **Add your LinkedIn link here**
+- Portfolio: **Add your portfolio link here**
+- Resume: **Add your resume link here**
+
+---
+
+<p align="center">
+  <i>Built with clarity, consistency, and a sky-blue professional aesthetic.</i>
+</p>
